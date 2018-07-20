@@ -1,0 +1,24 @@
+E:\המסמכים שלי\Visual Studio 2015\Projects\TicTacToePrg\TicTacToePrg\bin\Debug\TicTacToePrg.exe.config
+E:\המסמכים שלי\Visual Studio 2015\Projects\TicTacToePrg\TicTacToePrg\bin\Debug\TicTacToePrg.exe
+E:\המסמכים שלי\Visual Studio 2015\Projects\TicTacToePrg\TicTacToePrg\bin\Debug\TicTacToePrg.pdb
+E:\המסמכים שלי\Visual Studio 2015\Projects\TicTacToePrg\TicTacToePrg\obj\Debug\TicTacToePrg.csprojResolveAssemblyReference.cache
+E:\המסמכים שלי\Visual Studio 2015\Projects\TicTacToePrg\TicTacToePrg\obj\Debug\TicTacToePrg.exe
+E:\המסמכים שלי\Visual Studio 2015\Projects\TicTacToePrg\TicTacToePrg\obj\Debug\TicTacToePrg.pdb
+C:\Users\benka\Documents\Visual Studio 2015\Projects\TicTacToePrg\TicTacToePrg\bin\Debug\TicTacToePrg.exe.config
+C:\Users\benka\Documents\Visual Studio 2015\Projects\TicTacToePrg\TicTacToePrg\obj\Debug\TicTacToePrg.exe
+C:\Users\benka\Documents\Visual Studio 2015\Projects\TicTacToePrg\TicTacToePrg\obj\Debug\TicTacToePrg.pdb
+C:\Users\benka\Documents\Visual Studio 2015\Projects\TicTacToePrg\TicTacToePrg\bin\Debug\TicTacToePrg.exe
+C:\Users\benka\Documents\Visual Studio 2015\Projects\TicTacToePrg\TicTacToePrg\bin\Debug\TicTacToePrg.pdb
+C:\Users\benka\Documents\Visual Studio 2015\Projects\TicTacToePrg\TicTacToePrg\obj\Debug\TicTacToePrg.csprojResolveAssemblyReference.cache
+C:\Users\benka\Desktop\TicTacToePrg\TicTacToePrg\bin\Debug\TicTacToePrg.exe.config
+C:\Users\benka\Desktop\TicTacToePrg\TicTacToePrg\obj\Debug\TicTacToePrg.exe
+C:\Users\benka\Desktop\TicTacToePrg\TicTacToePrg\obj\Debug\TicTacToePrg.pdb
+C:\Users\benka\Desktop\TicTacToePrg\TicTacToePrg\bin\Debug\TicTacToePrg.exe
+C:\Users\benka\Desktop\TicTacToePrg\TicTacToePrg\bin\Debug\TicTacToePrg.pdb
+C:\Users\benka\Desktop\TicTacToePrg\TicTacToePrg\obj\Debug\TicTacToePrg.csprojResolveAssemblyReference.cache
+F:\TicTacToePrg\TicTacToePrg\bin\Debug\TicTacToePrg.exe.config
+F:\TicTacToePrg\TicTacToePrg\bin\Debug\TicTacToePrg.exe
+F:\TicTacToePrg\TicTacToePrg\bin\Debug\TicTacToePrg.pdb
+F:\TicTacToePrg\TicTacToePrg\obj\Debug\TicTacToePrg.csprojResolveAssemblyReference.cache
+F:\TicTacToePrg\TicTacToePrg\obj\Debug\TicTacToePrg.exe
+F:\TicTacToePrg\TicTacToePrg\obj\Debug\TicTacToePrg.pdb
